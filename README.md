@@ -7,8 +7,8 @@
 ### 使用方法:
 
 - 削除:
-  - `python PdfAutherEditor.py` : 表示されるファイルダイアログで選択したPDFファイルから作成者情報を削除します。 
-  - `python PdfAutherEditor.py PDFファイル名`: 指定されたPDFファイルから作成者情報を削除します。
+  - `python PdfAuthorEditor.py` : 表示されるファイルダイアログで選択したPDFファイルから作成者情報を削除します。 
+  - `python PdfAuthorEditor.py PDFファイル名`: 指定されたPDFファイルから作成者情報を削除します。
 
 - 編集:
-  - `python PdfAutherEditor.py PDFファイル名 新しい作成者名` : 表示されるファイルダイアログで選択したPDFファイルの作成者情報を新しい作成者名で編集します。 
+  - `python PdfAuthorEditor.py PDFファイル名 新しい作成者名` : 表示されるファイルダイアログで選択したPDFファイルの作成者情報を新しい作成者名で編集します。 
